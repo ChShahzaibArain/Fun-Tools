@@ -11,9 +11,9 @@ This tool for fun it's only working on termux
 
 # How to install:
 
-$ pkg update
+* 'pkg update'
 
-$ pkg upgrade
+* pkg upgrade
 
 $ pkg install git
 
