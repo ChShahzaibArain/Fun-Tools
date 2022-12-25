@@ -32,6 +32,10 @@ This tool for fun it's only working on termux
 
 * Non root
 
+* Internet
+
+* Storage Permission 
+
 # How to install:
 
 * `pkg update`
