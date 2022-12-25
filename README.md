@@ -11,4 +11,10 @@ $ pkg install git
 
 $ pkg install python python2
 
-$ git clone l
+$ git clone https://github.com/ChShahzaibArain/Fun-Tools
+
+# How to use
+
+$ cd Fun-Tools
+
+$ python fun.py
