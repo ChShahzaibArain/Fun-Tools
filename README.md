@@ -1,6 +1,14 @@
 # Fun-Tools
 This tool for fun it's only working on termux 
 
+# Requirements:
+
+1 python
+
+2 termux
+
+3 Non root
+
 # How to install:
 
 $ pkg update
