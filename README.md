@@ -3,28 +3,28 @@ This tool for fun it's only working on termux
 
 # Requirements:
 
-1 python
+* python
 
-2 termux
+* termux
 
-3 Non root
+* Non root
 
 # How to install:
 
-* 'pkg update'
+* "pkg update"
 
 * pkg upgrade
 
-$ pkg install git
+* pkg install git
 
-$ pkg install python python2
+* pkg install python python2
 
-$ git clone https://github.com/ChShahzaibArain/Fun-Tools
+* git clone https://github.com/ChShahzaibArain/Fun-Tools
 
 # How to use
 
-$ cd Fun-Tools
+* cd Fun-Tools
 
-$ chmod +x fun.py
+* chmod +x fun.py
 
-$ python fun.py
+* python fun.py
