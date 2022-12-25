@@ -17,4 +17,6 @@ $ git clone https://github.com/ChShahzaibArain/Fun-Tools
 
 $ cd Fun-Tools
 
+$ chmod +x fun.py
+
 $ python fun.py
