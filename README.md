@@ -3,7 +3,7 @@
 </p>
 <p align="center">
 <a href="https://github.com/ChShahzaibArain"><img title="Made in Pakistan" src="https://img.shields.io/badge/Tool-Infect-green.svg"></a>
-<a href="https://github.com/ChShahzaibArain"><img title="Version" src="https://img.shields.io/badge/Version-2.1-green.svg?style=flat-square"></a>
+<a href="https://github.com/ChShahzaibArain"><img title="Version" src="https://img.shields.io/badge/Version-1-green.svg?style=flat-square"></a>
 <a href="https://github.com/ChShahzaibArain"><img title="Maintainence" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>
 </p>
 
@@ -12,7 +12,7 @@
 <a href="https://youtube.com/@ChShahzaibKing"><img title="YouTube" src="https://img.shields.io/badge/YouTube-Ch Shahzaib-red?style=for-the-badge&logo=Youtube"></a>
 </p>
 <p align="center">
-<a href="https://github.com/ChShahzaibArain"><img title="Language" src="https://img.shields.io/badge/Made%20with-Bash-1f425f.svg?v=103"></a>
+<a href="https://github.com/ChShahzaibArain"><img title="Language" src="https://img.shields.io/badge/Made%20with-Python-1f425f.svg?v=103"></a>
 <a href="https://github.com/ChShahzaibArain"><img title="Followers" src="https://img.shields.io/github/followers/noob-hackers?color=blue&style=flat-square"></a>
 <a href="https://github.com/ChShahzaibArain"><img title="Stars" src="https://img.shields.io/github/stars/noob-hackers/infect?color=red&style=flat-square"></a>
 <a href="https://github.com/ChShahzaibArain"><img title="Forks" src="https://img.shields.io/github/forks/noob-hackers/infect?color=red&style=flat-square"></a>
