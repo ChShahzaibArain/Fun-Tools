@@ -46,6 +46,8 @@ This tool for fun it's only working on termux
 
 * `pkg install python python2`
 
+* `pip install faker`
+
 * `git clone https://github.com/ChShahzaibArain/Fun-Tools`
 
 # How to use
